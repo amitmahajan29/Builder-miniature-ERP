@@ -1,0 +1,4 @@
+Salary :756856
+Age :76
+Experience :34
+Gender :male
